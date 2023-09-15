@@ -1,1 +1,1 @@
-# simple-php-contact-form
+# Simple Contact form based on php
